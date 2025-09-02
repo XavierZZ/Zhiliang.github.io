@@ -230,11 +230,11 @@ en-ZM: #English (Zambia)
 en-ZW: #English (Zimbabwe)
   <<: *DEFAULT_EN
 
-# Spanish (https://localizely.com/language-code/es/)
+# Chinese (https://localizely.com/language-code/cn/)
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
+    - title: "服务"
       section: servicios
     - title: "Portafolio"
       section: portafolio
@@ -244,10 +244,8 @@ es: &DEFAULT_ES
       section: cronologia
     - title: "Equipo"
       section: equipo
-    - title: "Contáctenos"
+    - title: "联系我"
       section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 
 es-419: #Spanish (Latin America and the Caribbean)
   <<: *DEFAULT_ES
