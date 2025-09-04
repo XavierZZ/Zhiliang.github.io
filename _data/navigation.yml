@@ -21,6 +21,8 @@ en: &DEFAULT_EN
       section: experience
     - title: "Contact"
       section: contact
+      - title: "CV"
+  url: "/cv/"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -44,5 +46,7 @@ zh: &DEFAULT_ZH
       section: experience
     - title: "联系我"
       section: contact
+      - title: "CV"
+  url: "/cv/"
 zh-CN:
   <<: *DEFAULT_ZH
