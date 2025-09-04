@@ -96,7 +96,10 @@
       margin-bottom: 30px;
     }
     img {
-      margin-bottom: 30px;
+      display: block;     // 默认 inline，改成块级才好居中
+      margin: 0 auto 30px; // 上下留空 30px，左右 auto 实现居中
+      max-width: 90%;     // 防止图片撑得太大
+      height: auto;       // 保持宽高比例
     }
     button {
       cursor: pointer;
