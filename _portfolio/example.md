@@ -13,7 +13,8 @@ alt: image alt text
 ---
 He is soooooo cute right？ **Markdown** supported.
 
-
+![Extra Image 1](assets/img/portfolio/littlebomy.png)
+![Extra Image 2](assets/img/portfolio/bomy_detail2.png)
 
 {:.list-inline} 
 - Date: 2025/9/2
